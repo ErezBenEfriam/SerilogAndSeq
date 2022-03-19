@@ -1,0 +1,8 @@
+2022-03-19 11:24:29.279 +02:00 [INF] Processed {"Latitude":25,"Longitude":134} in 034 ms.
+2022-03-19 11:24:29.290 +02:00 [INF] Processed {"HighTemp":60,"LowTemp":35,"$type":"DailyTemperature"} 
+2022-03-19 11:39:04.323 +02:00 [INF] Processed {"Latitude":25,"Longitude":134} in 034 ms.
+2022-03-19 11:39:04.334 +02:00 [INF] Processed {"HighTemp":60,"LowTemp":35,"$type":"DailyTemperature"} 
+2022-03-19 11:48:44.932 +02:00 [INF] Log List ["Freezing","Bracing","Chilly","Cool","Mild","Warm","Balmy","Hot","Sweltering","Scorching"]
+2022-03-19 11:48:44.948 +02:00 [INF] Log Object {"FirstName":"dani","Age":15}
+2022-03-19 11:48:46.264 +02:00 [INF] Log List ["Freezing","Bracing","Chilly","Cool","Mild","Warm","Balmy","Hot","Sweltering","Scorching"]
+2022-03-19 11:48:46.266 +02:00 [INF] Log Object {"FirstName":"dani","Age":15}

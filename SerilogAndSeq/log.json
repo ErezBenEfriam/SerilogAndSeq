@@ -1,0 +1,8 @@
+{"Timestamp":"2022-03-19T11:24:29.2793202+02:00","Level":"Information","MessageTemplate":"Processed {@Position} in {Elapsed:000} ms.","Properties":{"Position":{"Latitude":25,"Longitude":134},"Elapsed":34},"Renderings":{"Elapsed":[{"Format":"000","Rendering":"034"}]}}
+{"Timestamp":"2022-03-19T11:24:29.2900215+02:00","Level":"Information","MessageTemplate":"Processed {@Position} ","Properties":{"Position":{"_typeTag":"DailyTemperature","HighTemp":60,"LowTemp":35}}}
+{"Timestamp":"2022-03-19T11:39:04.3236787+02:00","Level":"Information","MessageTemplate":"Processed {@Position} in {Elapsed:000} ms.","Properties":{"Position":{"Latitude":25,"Longitude":134},"Elapsed":34},"Renderings":{"Elapsed":[{"Format":"000","Rendering":"034"}]}}
+{"Timestamp":"2022-03-19T11:39:04.3344320+02:00","Level":"Information","MessageTemplate":"Processed {@Position} ","Properties":{"Position":{"_typeTag":"DailyTemperature","HighTemp":60,"LowTemp":35}}}
+{"Timestamp":"2022-03-19T11:48:44.9325862+02:00","Level":"Information","MessageTemplate":"Log List {Summaries}","Properties":{"Summaries":["Freezing","Bracing","Chilly","Cool","Mild","Warm","Balmy","Hot","Sweltering","Scorching"]}}
+{"Timestamp":"2022-03-19T11:48:44.9484552+02:00","Level":"Information","MessageTemplate":"Log Object {@myobject}","Properties":{"myobject":{"FirstName":"dani","Age":15}}}
+{"Timestamp":"2022-03-19T11:48:46.2649896+02:00","Level":"Information","MessageTemplate":"Log List {Summaries}","Properties":{"Summaries":["Freezing","Bracing","Chilly","Cool","Mild","Warm","Balmy","Hot","Sweltering","Scorching"]}}
+{"Timestamp":"2022-03-19T11:48:46.2664132+02:00","Level":"Information","MessageTemplate":"Log Object {@myobject}","Properties":{"myobject":{"FirstName":"dani","Age":15}}}
